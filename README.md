@@ -24,3 +24,8 @@ This document is made by [gitfab](http://gitfab.org)
 #idea-粘土マウス
 自由形状系マウス。
 ---
+#idea-ブレッドボードマウス
+
+マウスに電子部品をプラスするための、あるいはフィードバックを返すための基礎マウス。
+
+---
