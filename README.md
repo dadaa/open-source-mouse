@@ -1,5 +1,5 @@
 # open-source-mouse
-## sfc2013-design-strategy     
+## sfc2013-design-strategy      
 This document is made by [gitfab](http://gitfab.org)
 ---
 #3Dスキャンデータ
@@ -18,4 +18,6 @@ This document is made by [gitfab](http://gitfab.org)
 
 マウスで触覚を表現することで、ウェブに触覚情報を導入する。
 
+
+![1381708_382103345256947_1126590842_n.jpg](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/1381708_382103345256947_1126590842_n.jpg)
 ---
