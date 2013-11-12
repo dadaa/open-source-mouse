@@ -1,10 +1,13 @@
 # open-source-mouse
-## sfc2013-design-strategy        
+## sfc2013-design-strategy         
 This document is made by [gitfab](http://gitfab.org)
 ---
 #3Dスキャンデータ
 
 [mouse_modify.stl](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/mouse_modify.stl)
+
+3Dスキャンに感謝！[しぶや図工室 平本さん](http://shibuya.abbalab.com/)
+
 
 ![mouse3d.png](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/mouse3d.png)
 ---
