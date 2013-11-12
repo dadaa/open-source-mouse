@@ -1,5 +1,5 @@
 # open-source-mouse
-## sfc2013-design-strategy    
+## sfc2013-design-strategy     
 This document is made by [gitfab](http://gitfab.org)
 ---
 #3Dスキャンデータ
@@ -13,4 +13,9 @@ This document is made by [gitfab](http://gitfab.org)
 ---
 #idea-どこでもトラックパッド
 マウスの縦横センサを指につけ、どこでもトラックパッド化する。
+---
+#idea-触覚マウス
+
+マウスで触覚を表現することで、ウェブに触覚情報を導入する。
+
 ---
