@@ -1,5 +1,5 @@
 # open-source-mouse
-## sfc2013-design-strategy   
+## sfc2013-design-strategy    
 This document is made by [gitfab](http://gitfab.org)
 ---
 #3Dスキャンデータ
@@ -11,6 +11,6 @@ This document is made by [gitfab](http://gitfab.org)
 実世界の距離を計るマウス。
 
 ---
-#idea-どこでもタッチパネル
-マウスの縦横センサを指につけ、mac book pro をタッチパネルにする。
+#idea-どこでもマウスパッド
+マウスの縦横センサを指につけ、どこでもマウスパッド化する。
 ---
