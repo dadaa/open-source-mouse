@@ -1,5 +1,5 @@
 # open-source-mouse
-## sfc2013-design-strategy
+## sfc2013
 This document is made by [gitfab](http://gitfab.org)
 ---
 #3Dスキャンデータ
