@@ -2,6 +2,10 @@
 ## sfc2013-design-strategy
 This document is made by [gitfab](http://gitfab.org)
 ---
+#thumbnail
+
+![1371740_526380147443265_1171696197_n.jpg](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/1371740_526380147443265_1171696197_n.jpg)
+---
 #3Dスキャンデータ
 
 [mouse_modify.stl](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/mouse_modify.stl)
