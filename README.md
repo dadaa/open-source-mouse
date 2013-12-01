@@ -12,7 +12,6 @@ This document is made by [gitfab](http://gitfab.org)
 ![mouse3d.png](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/mouse3d.png)
 ---
 #idea-実測マウス
-
 実世界の距離を計るマウス。
 
 ---
