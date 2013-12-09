@@ -29,3 +29,9 @@ This document is made by [gitfab](http://gitfab.org)
 
 マウスに電子部品をプラスするための、あるいはフィードバックを返すための基礎マウス。
 ---
+#idea-テスト
+どうでしょう。
+
+
+![1371740_526380147443265_1171696197_n.jpg](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/1371740_526380147443265_1171696197_n.jpg)
+---
