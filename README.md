@@ -36,4 +36,6 @@ This document is made by [gitfab](http://gitfab.org)
 ![1371740_526380147443265_1171696197_n.jpg](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/1371740_526380147443265_1171696197_n.jpg)
 
 ![b.png](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/b.png)
+
+![べん.JPG](https://raw.github.com/dadaa/open-source-mouse/master/gitfab/resources/べん.JPG)
 ---
